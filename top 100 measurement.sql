@@ -1,0 +1,1 @@
+﻿select * from measurement_result limit 100
